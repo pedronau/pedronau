@@ -1,7 +1,7 @@
 # Hola, soy Pedro 👋
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQFldoxxkSbZgA/profile-displayphoto-shrink_800_800/B56ZbE3M1KGsAc-/0/1747059527655?e=1756944000&v=beta&t=J9UQc-18iY3Ucd1bLeq363bNTyvd_044Pc9yRm-UUqg"  alt="Foto de perfil de un chaval muy majo" style="border-radius: 50%; height: 200px;" />
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQFldoxxkSbZgA/profile-displayphoto-shrink_800_800/B56ZbE3M1KGsAc-/0/1747059527655?e=1756944000&v=beta&t=J9UQc-18iY3Ucd1bLeq363bNTyvd_044Pc9yRm-UUqg"  alt="Foto de perfil de un chaval muy majo" width="200" height="200" />
 </p>
 
 ---
