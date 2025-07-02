@@ -56,7 +56,7 @@ todo lo que hago.
 ## 📫 ¿Hablamos?
 
 - Email: pedropefer34@gmail.com
-- LinkedIn: [Mi perfil de LinkedIn](www.linkedin.com/in/pedro-peñas-759951246)
+- LinkedIn: [Mi perfil de LinkedIn](https://www.linkedin.com/in/pedro-peñas-759951246)
 ---
 
 ¡Gracias por visitar mi perfil!
