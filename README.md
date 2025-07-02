@@ -56,9 +56,7 @@ todo lo que hago.
 ## 📫 ¿Hablamos?
 
 - Email: pedropefer34@gmail.com
-- LinkedIn: [Perfil de LinkedIn](www.linkedin.com/in/pedro-peñas-759951246)
-<!-- - Portfolio: [tusitio.com](https://tusitio.com) -->
-
+- LinkedIn: [Mi perfil de LinkedIn](www.linkedin.com/in/pedro-peñas-759951246)
 ---
 
 ¡Gracias por visitar mi perfil!
