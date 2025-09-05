@@ -41,15 +41,6 @@ mejor de mí, adaptándome a los
 desafíos y priorizando la calidad en
 todo lo que hago.
 
----
-
-## 🚀 Tecnologías y herramientas
-
-- Lenguajes: JavaScript, TypeScript, PostgreSQL
-- Frameworks: Angular, Node.js
-- Herramientas: Git, Docker, VS Code, GitHub Actions
-
----
 
 ## 📫 ¿Hablamos?
 
