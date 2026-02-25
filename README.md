@@ -1,7 +1,7 @@
 # Hola, soy Pedro 👋
 
 
-
+<!--
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow)
 ![Static Badge](https://img.shields.io/badge/TypeScript-blue)
 ![Static Badge](https://img.shields.io/badge/Node.js-%236cc24a)
@@ -51,7 +51,7 @@ todo lo que hago.
 ¡Gracias por visitar mi perfil!
 
 
-<!--
+
 **pedronau/pedronau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
